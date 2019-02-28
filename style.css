@@ -363,7 +363,7 @@ main .profile{
 
 .profile-social a:hover{
     text-decoration: none;
-    color: #FFB7B2  ;
+    color: #ee015c;
 }
 
 .profile-buttons{
@@ -398,7 +398,7 @@ main .profile{
 
 
 .profile-buttons a:hover{
-    color: #FFB7B2  ;
+    color: #ee015c;
 }
 
 .profile-buttons a:first-child::before, .profile-buttons a:first-child::after{
@@ -477,7 +477,7 @@ main .profile{
     height: 60px;
     text-align: center;
     font-size: 32px;
-    color: #2eca7f;
+    color: #ee015c;
     background: linear-gradient(135deg, rgba(46, 202, 127, 0.4) 0%, rgba(46, 202, 127, 0.01) 100%);
     border-radius: 60px;
     display: flex;
@@ -763,7 +763,7 @@ main .profile{
 }
 
 .resume-skills > div section > div > div > div{
-    background: #2eca7f;
+    background: #ee015c;
     height: 4px;
 }
 
@@ -785,7 +785,7 @@ main .profile{
     width: 40px;
     height: 40px;
     font-size: 26px;
-    color: #2eca7f;
+    color: #ee015c;
 }
 
 .works-header{
@@ -952,7 +952,7 @@ main .contact{
 }
 
 .contact-form button:hover {
-    color: #2eca7f;
+    color: #ee015c;
 }
 
 @media only screen and (min-width: 540px){
@@ -963,7 +963,7 @@ main .contact{
 
 @media only screen and (min-width: 1040px) {
     .selected{
-        color: #2eca7f;
+        color: #ee015c;
     }
     .page{
         position: absolute;
