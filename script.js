@@ -77,11 +77,4 @@ email.addEventListener("input", function (event) {
 
 form.addEventListener("submit", function (event) {
     event.preventDefault();
-  });
-
-  <script src="js/wow.min.js"></script>
-              <script>
-              new WOW().init();
-              </script>
-
-            
+  }); 

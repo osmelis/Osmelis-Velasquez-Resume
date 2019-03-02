@@ -165,7 +165,7 @@ input:focus, textarea:focus, button:focus {
     top: 0;
     width: 30px;
     height: 30px;
-    background: linear-gradient(135deg, rgba(102, 59, 223, 0.4) 0%, rgba(95, 44, 216, 0.01) 100%);
+    background: linear-gradient(135deg, #ee015c94 15%, #ee015c 100%);
     z-index: -1;
     border-radius: 30px;
 }
@@ -392,7 +392,7 @@ main .profile{
     line-height: 70px;
     font-size: 12px;
     font-weight: 500;
-    color: #171717;
+    color: white;
 }
 
 
@@ -460,7 +460,7 @@ main .profile{
     top: 0;
     width: 1px;
     height: 100%;
-    background: radial-gradient(ellipse at top, rgba(197, 202, 213, 0.7) 0%, rgba(255, 255, 255, 0) 70%);
+    background: radial-gradient(ellipse at top, rgb(221, 221, 221) 0%, rgb(255, 255, 255) 70%);
 }
 
 .about-services article{
@@ -487,7 +487,7 @@ main .profile{
 
 .about-services article h4{
     font-size: 13px;
-    color: #171717;
+    color: #c2c2c2;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -513,8 +513,8 @@ main .profile{
     display: inline-block;
     vertical-align: middle;
     font-size: 12px;
-    color: #171717;
-    background: rgba(46, 202, 127, 0.4);
+    color: white;
+    background: #ee015c;
     font-weight: 300;
     border-radius: 2px;
 }
@@ -550,7 +550,7 @@ main .profile{
     vertical-align: top;
     font-size: 17px;
     font-weight: 400;
-    color: #171717;
+    color: #d3d3d3;
 }
 
 .about-pricing .number{
@@ -561,7 +561,7 @@ main .profile{
     font-size: 42px;
     line-height: 26px;
     font-weight: 500;
-    color: #171717;
+    color: #d3d3d3;
 }
 
 .about-pricing .period{
@@ -569,7 +569,7 @@ main .profile{
     top: 7px;
     vertical-align: bottom;
     font-size: 13px;
-    color: #626262;
+    color: #d3d3d3;
     position: relative;
     margin-left: 7px;
 }
@@ -657,7 +657,7 @@ main .profile{
     padding: 20px 18px;
     font-size: 13px;
     line-height: 13px;
-    color: #171717;
+    color: ##d3d3d3;
     font-weight: 500;
     text-transform: uppercase;
 }
